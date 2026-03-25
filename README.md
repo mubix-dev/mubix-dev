@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubeenlodhie52) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mubeenlodhie52@gmail.com) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubix-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mubix.dev@gmail.com) <br><br>
 
 
 # 💻 Tech Stack:
@@ -22,14 +22,14 @@
 
 
 # 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=mubeenlodhie52&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://nirzak-streak-stats.vercel.app/?user=mubeenlodhie52&theme=neon&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubeenlodhie52&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mubix-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=mubix-dev&theme=neon&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubix-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mubeenlodhie52&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mubix-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mubixdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230078D4.svg?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/mubix-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mubix.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -14,6 +15,7 @@
 
 I am a passionate **Computer Science student** specializing in building secure, scalable, and high-performance web applications. My core expertise lies in backend architecture, API design, and full-stack development using the **MERN Stack** and modern web ecosystems.
 
+- 🌐 **Portfolio:** Check out my live projects at [mubixdev.vercel.app](https://mubixdev.vercel.app/)
 - 🎯 **Focus:** Building robust REST APIs, secure authentication lifecycles, and interactive user interfaces.
 - 🧠 **Foundations:** Strong command over Object-Oriented Programming (OOP), Data Structures, Algorithms, and System Design.
 - 🚀 **Mission:** Turning complex logic into elegant, real-world digital solutions.

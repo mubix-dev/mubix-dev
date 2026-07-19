@@ -10,7 +10,7 @@
 
 ## About
 
-<img align="right" width="46%" src="./whoami.gif" alt="developer profile in code" />
+<img align="right" width="46%" src="./assets/whoami.gif" alt="developer profile in code" />
 
 I'm a **Computer Science student** at COMSATS University Islamabad (CUI '28) and a **Full-Stack developer** working across the **MERN and PERN** stacks to build secure, scalable web applications.
 
@@ -33,8 +33,7 @@ My work centers on backend architecture, REST API design, and real-time WebSocke
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mubix-dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=0F7CFF&icon_color=00C6FF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubix-dev&layout=compact&hide_border=true&theme=tokyonight&title_color=0F7CFF" alt="Top Languages" />
+  <img height="165" src="./assets/langs_card.png" alt="Most Used Languages" />
 </p>
 
 <br/>

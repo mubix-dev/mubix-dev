@@ -33,7 +33,7 @@ My work centers on backend architecture, REST API design, and real-time WebSocke
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="./assets/langs_card.png" alt="Most Used Languages" />
+  <img height="165" src="./langs_card.png" alt="Most Used Languages" />
 </p>
 
 <br/>

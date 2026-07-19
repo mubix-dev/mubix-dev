@@ -1,5 +1,5 @@
 <!-- ============ HEADER ============ -->
-<img width="100%" src="banner.gif" alt="Muhammad Mubeen Khan — Full-Stack MERN Developer" />
+<img width="100%" src="./banner.gif" alt="Muhammad Mubeen Khan — Full-Stack MERN Developer" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mubix-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,7 +10,7 @@
 
 ## About
 
-<img align="right" width="46%" src="./assets/whoami.gif" alt="developer profile in code" />
+<img align="right" width="46%" src="./whoami.gif" alt="developer profile in code" />
 
 I'm a **Computer Science student** at COMSATS University Islamabad (CUI '28) and a **Full-Stack developer** working across the **MERN and PERN** stacks to build secure, scalable web applications.
 

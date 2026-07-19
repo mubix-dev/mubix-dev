@@ -10,7 +10,7 @@
 
 ## About
 
-<img align="right" width="46%" src="./assets/whoami.gif" alt="developer profile in code" />
+<img align="right" width="46%" src="./whoami.gif" alt="developer profile in code" />
 
 I'm a **Computer Science student** at COMSATS University Islamabad (CUI '28) and a **Full-Stack developer** working across the **MERN and PERN** stacks to build secure, scalable web applications.
 

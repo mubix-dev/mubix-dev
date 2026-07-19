@@ -1,5 +1,5 @@
 <!-- ============ HEADER ============ -->
-<img width="100%" src="./banner_b.gif" alt="Muhammad Mubeen Khan — Full-Stack MERN Developer" />
+<img width="100%" src="./banner_matrix_blue.gif" alt="Muhammad Mubeen Khan — Full-Stack MERN Developer" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mubix-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

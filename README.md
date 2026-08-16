@@ -1,8 +1,8 @@
-<!-- ============ HEADER ============ -->
-<img width="100%" src="./banner_matrix_blue.gif" alt="Muhammad Mubeen Khan — Full-Stack MERN Developer" />
+<img width="100%" src="./banner_matrix_blue.gif" alt="Muhammad Mubeen Khan — AI Engineer & Full-Stack Developer" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mubix-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mubixdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:mubix.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -12,20 +12,40 @@
 
 <img align="right" width="46%" src="./whoami.gif" alt="developer profile in code" />
 
-I'm a **Computer Science student** at COMSATS University Islamabad (CUI '28) and a **Full-Stack developer** working across the **MERN and PERN** stacks to build secure, scalable web applications.
+I build **AI-powered web applications** end to end — from the React interface down to the agent orchestration layer and the vector store behind it.
 
-My work centers on backend architecture, REST API design, and real-time WebSocket systems — with clean authentication lifecycles built on JWT and role-based access control.
+My foundation is full-stack engineering on the **MERN and PERN** stacks: REST API design, real-time WebSocket systems, and authentication built on JWT with role-based access control. I've since moved that work toward AI — **LangChain and LangGraph** in Python, RAG pipelines, conversational memory, and transformer models served through **FastAPI**.
 
-- 🔭 Building full-stack apps with Node.js, React, MongoDB, PostgreSQL & Socket.IO
-- 🛡️ Backend & security focused — JWT · RBAC · REST APIs · Docker
-- 🤖 Exploring Machine Learning (classification models with scikit-learn)
+- 🤖 LLM applications — RAG · multi-agent systems · vector search
+- 🧠 Deep learning in Python — transformers, CNNs, RNNs, scikit-learn
+- ⚙️ Backend architecture — Node.js · FastAPI · microservices · Docker
+- 🎓 CS student at COMSATS University Islamabad (CUI '28)
 
 <br clear="both"/>
 
+## Featured Work
+
+**🧩 Multi-Agent AI Chat Platform** — `MERN · LangGraph · Docker`
+Microservices architecture running specialized agents with shared conversational memory, retrieval over user documents, and live web search.
+
+**📝 T5 Text Summarizer** — `Python · FastAPI · React`
+Abstractive summarization on a T5 transformer, served through a FastAPI inference API with a React frontend.
+
+**📚 Deep Learning Projects** — `PyTorch · TensorFlow · scikit-learn`
+CNN and RNN implementations alongside classical regression and classification models.
+
+<br/>
+
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,git,vercel&theme=dark" />
+**AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi&theme=dark" />
+</p>
+
+**Web & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,redis,docker,git,vercel&theme=dark" />
 </p>
 
 <br/>

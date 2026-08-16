@@ -53,7 +53,8 @@ CNN and RNN implementations alongside classical regression and classification mo
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="./langs_card.png" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubix-dev&layout=compact&langs_count=8&hide=html,css,scss&bg_color=0d1117&title_color=2ee6c0&text_color=8ab0ae&icon_color=2ee6c0&border_color=1c2b2b&hide_border=false" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/?username=mubix-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2ee6c0&text_color=8ab0ae&icon_color=2ee6c0&border_color=1c2b2b" alt="GitHub Stats" />
 </p>
 
 <br/>

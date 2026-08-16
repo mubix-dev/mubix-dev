@@ -14,10 +14,10 @@
 
 I build **AI-powered web applications** end to end — from the React interface down to the agent orchestration layer and the vector store behind it.
 
-My foundation is full-stack engineering on the **MERN and PERN** stacks: REST API design, real-time WebSocket systems, and authentication built on JWT with role-based access control. I've since moved that work toward AI — **LangChain and LangGraph** in Python, RAG pipelines, conversational memory, and transformer models served through **FastAPI**.
+My foundation is full-stack engineering on the **MERN** stack: REST API design, real-time WebSocket systems, and authentication built on JWT with role-based access control. I've since moved that work toward AI — **LangChain** for agent orchestration, RAG pipelines, conversational memory, and transformer models served through **FastAPI**.
 
 - 🤖 LLM applications — RAG · multi-agent systems · vector search
-- 🧠 Deep learning in Python — transformers, CNNs, RNNs, scikit-learn
+- 🧠 Deep learning in Python — PyTorch, transformers, CNNs, RNNs, scikit-learn
 - ⚙️ Backend architecture — Node.js · FastAPI · microservices · Docker
 - 🎓 CS student at COMSATS University Islamabad (CUI '28)
 
@@ -25,13 +25,13 @@ My foundation is full-stack engineering on the **MERN and PERN** stacks: REST AP
 
 ## Featured Work
 
-**🧩 Multi-Agent AI Chat Platform** — `MERN · LangGraph · Docker`
-Microservices architecture running specialized agents with shared conversational memory, retrieval over user documents, and live web search.
+**🧩 Multi-Agent AI Chat Platform** — `MERN · LangChain · Docker · AWS`
+Microservices architecture on the MERN stack, using LangChain to orchestrate specialized agents with shared conversational memory, retrieval over user documents, and live web search.
 
 **📝 T5 Text Summarizer** — `Python · FastAPI · React`
 Abstractive summarization on a T5 transformer, served through a FastAPI inference API with a React frontend.
 
-**📚 Deep Learning Projects** — `PyTorch · TensorFlow · scikit-learn`
+**📚 Deep Learning Projects** — `PyTorch · scikit-learn`
 CNN and RNN implementations alongside classical regression and classification models.
 
 <br/>
@@ -40,12 +40,12 @@ CNN and RNN implementations alongside classical regression and classification mo
 
 **AI & Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi&theme=dark" />
 </p>
 
 **Web & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,redis,docker,git,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,redis,docker,aws,git,vercel&theme=dark" />
 </p>
 
 <br/>
@@ -65,4 +65,3 @@ CNN and RNN implementations alongside classical regression and classification mo
 <br/>
 
 <p align="center"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
-
